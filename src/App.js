@@ -16,8 +16,7 @@ function App() {
   const handleReset = () => {
     setIntialValue(5);
   };
-  
-  return (
+return (
     <div>
       <h1>this is parent</h1>
       <h4>intialvalue : {intialvalue}</h4>
