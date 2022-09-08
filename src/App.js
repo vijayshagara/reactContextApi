@@ -16,6 +16,7 @@ function App() {
   const handleReset = () => {
     setIntialValue(5);
   };
+  
   return (
     <div>
       <h1>this is parent</h1>
